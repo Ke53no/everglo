@@ -1,5 +1,5 @@
 # everglo
 
-time has change, so here am I writing a message to whom I don't know entirly.
+For class
 
-But, hey, this is a start, isn't it?
+Contains notes and a project about tbd
